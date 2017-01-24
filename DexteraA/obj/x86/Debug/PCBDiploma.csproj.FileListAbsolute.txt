@@ -1,0 +1,16 @@
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\bin\Debug\PCBDiploma.exe
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\bin\Debug\PCBDiploma.pdb
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\PCBDiploma.csprojResolveAssemblyReference.cache
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\Additional.g.cs
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\App.g.cs
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\PCBDiploma_MarkupCompile.cache
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\PCBDiploma_MarkupCompile.lref
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\Additional.baml
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\MainWindow.baml
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\PCBDiploma.g.resources
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\PCBDiploma.Properties.Resources.resources
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\PCBDiploma.csproj.GenerateResource.Cache
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\PCBDiploma.exe
+C:\Users\Strigin\Desktop\PCBDiploma\DexteraA\obj\x86\Debug\PCBDiploma.pdb
